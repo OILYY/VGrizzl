@@ -38,7 +38,7 @@ VGrizzl
     --background-image: var(--wallpaper);
     --bg-opacity: 100%;
     /*bg dev suggestions*/
-    --wallpaper: url("https://i.imgur.com/xLmq8M2.jpeg");
+    --wallpaper: url("https://i.imgur.com/NBmVnV0.jpeg");
     /*modern background selection*/
     --modern-dark-bg: url("https://OILYY.github.io/VGrizzl/Wallpapers/modern-dark-bg.png");
     --modern-light-bg: url("https://OILYY.github.io/VGrizzl/Wallpapers/modern-light-bg.png");
@@ -92,9 +92,9 @@ VGrizzl
 
     /* For accent color to take full effect must need to change both */
     /* vgrizzl colours rgb */
-    --accentcolor: 255, 255, 255;
+    --accentcolor: 01, 01, 01;
     /* vgrizzl colours hex */
-    --accentcolorV2: #ffffff;
+    --accentcolorV2: #010101;
 
 
     /* settings modal root */
